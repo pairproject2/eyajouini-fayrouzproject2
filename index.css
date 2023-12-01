@@ -1,0 +1,106 @@
+body {
+  background-image: url(https://t3.ftcdn.net/jpg/05/13/59/72/360_F_513597277_YYqrogAmgRR9ohwTUnOM784zS9eYUcSk.jpg);
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+  font-stretch: expanded;
+}
+
+p {
+  font-weight: 800;
+}
+
+#A {
+  margin-top: 10px;
+  color: #e6836bd8;
+  font-size: 150%;
+}
+
+#W {
+  font-size: 150%;
+  color: #df6651;
+
+}
+
+#up {
+
+  font-size: 150%;
+  color: #9e7871;
+
+
+}
+
+ul {
+  text-align: left;
+  margin-top: 20px;
+}
+
+#task-input {
+
+  font-size: 25px;
+}
+
+li {
+  list-style: none;
+  padding: 10px 20px;
+  color: #ffffff;
+  font-weight: 600;
+  border: 2px solid;
+  border-radius: 5px;
+  margin-bottom: 10px;
+  background: rgb(240, 207, 147);
+  transition: all 0.75s ease;
+
+}
+
+
+
+input {
+  border-radius: 5px;
+  min-width: 65%;
+  padding: 5px;
+  border: none;
+}
+
+#add-btn {
+  border-radius: 25px;
+  border: 8px;
+  width: 200px;
+  font-size: large;
+  background-color: bisque;
+
+}
+
+
+
+.delete-btn {
+  float: right;
+  width: 100px;
+  border-radius: 25px;
+}
+
+.update-btn {
+  float: right;
+  width: 100px;
+  border-radius: 25px;
+}
+
+.save-btn {
+  width: 100px;
+  border-radius: 25px;
+
+}
+
+#input {
+  padding: 25px;
+  color: #ffffff;
+  font-weight: 600;
+  border: 2px solid;
+  border-radius: 5px;
+  margin-bottom: 10px;
+  background: rgb(220, 201, 192);
+  transition: all 0.75s ease;
+
+}
