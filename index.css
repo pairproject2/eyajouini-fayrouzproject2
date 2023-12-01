@@ -104,3 +104,78 @@ input {
   transition: all 0.75s ease;
 
 }
+
+
+
+h1 {
+  font-stretch: expanded;
+}
+
+p {
+  font-weight: 800;
+}
+
+#A {
+  margin-top: 10px;
+  color: #be6d59d8;
+}
+
+#W {
+  color: #df6651;
+
+}
+
+#last {
+  color: #8f51df;
+
+}
+
+ul {
+  text-align: left;
+  margin-top: 20px;
+}
+
+#task-input {
+
+  font-size: 25px;
+}
+
+li {
+  list-style: none;
+  padding: 10px 20px;
+  color: #ffffff;
+  font-weight: 600;
+  border: 2px solid;
+  border-radius: 5px;
+  margin-bottom: 10px;
+  background: rgb(241, 191, 96);
+  transition: all 0.75s ease;
+
+}
+
+input {
+  border-radius: 5px;
+  min-width: 65%;
+  padding: 5px;
+  border: none;
+}
+
+#Add-btn {
+  border-radius: 25px;
+  border: 8px;
+  font-size: large;
+  background-color: bisque;
+
+}
+
+.delete {
+  display: none;
+}
+
+.delete-btn {
+  float: right;
+}
+
+.update-btn {
+  float: right;
+}
